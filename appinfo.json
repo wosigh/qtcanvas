@@ -1,6 +1,6 @@
 {
 	"title":    "Qt Canvas",
-	"type":     "web",
+	"type":     "game",
 	"main":     "start.sh",
 	"id":       "net.griffin.qtcanvas",
 	"vendor":   "griffin.net",
